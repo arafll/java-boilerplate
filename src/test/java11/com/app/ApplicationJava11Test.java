@@ -1,7 +1,7 @@
 
-// src/test/java11/com/instigator/ApplicationJava11Test.java
+// src/test/java11/com/app/ApplicationJava11Test.java
 
-package com.instigator;
+package com.app;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -11,7 +11,6 @@ public class ApplicationJava11Test {
 
     @Test
     public void testJava11Feature() {
-        // Contoh penggunaan fitur Java 11: var di local variable
         var expected = "Instigator Java 11";
         var actual = "Instigator Java 11";
         assertEquals(expected, actual, "Java 11 feature test passed");

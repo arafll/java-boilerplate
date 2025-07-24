@@ -1,7 +1,7 @@
 
-// src/main/java/com/instigator/Application.java
+// src/main/java/com/app/Application.java
 
-package com.instigator;
+package com.app;
 
 /**
  * Kelas utama aplikasi Instigator.
