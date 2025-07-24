@@ -46,7 +46,7 @@
 Clone this repository:
 
 ```bash
-git clone https://github.com/onewhub/java-boilerplate
+git clone https://github.com/arafll/java-boilerplate
 cd java-boilerplate
 ````
 

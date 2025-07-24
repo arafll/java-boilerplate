@@ -5,17 +5,17 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.onewhub</groupId>
-  <artifactId>java-boilerplate-library</artifactId>
+  <groupId>com.arafll</groupId>
+  <artifactId>java-boilerplate</artifactId>
   <version>0.1.0-SNAPSHOT</version>
-  <name>java-boilerplate-library</name>
+  <name>java-boilerplate</name>
   <description>Java boilerplate library: minimal, modern, and ready for reuse.</description>
-  <url>https://github.com/onewhub/java-boilerplate-library</url>
+  <url>https://github.com/arafll/java-boilerplate</url>
   <inceptionYear>2025</inceptionYear>
 
   <organization>
     <name>Dio Arafi</name>
-    <url>https://onewhub.com</url>
+    <url>https://arafll.com</url>
   </organization>
 
   <licenses>
@@ -27,22 +27,22 @@
   </licenses>
 
   <scm>
-    <url>https://github.com/onewhub/java-boilerplate-library</url>
-    <connection>scm:git:https://github.com/onewhub/java-boilerplate-library.git</connection>
-    <developerConnection>scm:git:ssh://github.com:onewhub/java-boilerplate-library.git</developerConnection>
+    <url>https://github.com/arafll/java-boilerplate</url>
+    <connection>scm:git:https://github.com/arafll/java-boilerplate.git</connection>
+    <developerConnection>scm:git:ssh://github.com:arafll/java-boilerplate.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
   <issueManagement>
     <system>GitHub</system>
-    <url>https://github.com/onewhub/java-boilerplate-library/issues</url>
+    <url>https://github.com/arafll/java-boilerplate/issues</url>
   </issueManagement>
 
   <developers>
     <developer>
-      <id>onewhub</id>
+      <id>arafll</id>
       <name>Dio Arafi</name>
-      <email>info@onewhub.com</email>
+      <email>info@arafll.com</email>
       <roles>
         <role>Lead Developer</role>
       </roles>
